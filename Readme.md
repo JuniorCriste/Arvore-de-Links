@@ -1,10 +1,11 @@
-## Modelo Árvore de Links.
-#### Use e edite a vontade.
-#### Feito com HTML + CSS. 
+<h2>Modelo Árvore de Links. </he>
+<h4>Use e edite a vontade.
+<br />
+Feito com HTML + CSS.  </h4>
 
-###### Criado por <a href="https://github.com/juniorcriste">Junior Criste</a>
+<h5> Criado por <a href="https://github.com/juniorcriste">Junior Criste</a></h5>
 <hr /> 
-### <a href="https://www.informaticode.store/arvore">Página na internet</a>
-
-##### Fale comigo: <a href="mailto:informaticode@gmail.com">E-mail</a> - <a href="https://www.instagram.com/myself.junior/">Instagram</a>
-
+<h4> <a href="https://www.informaticode.store/arvore">Página na internet</a> 
+<br />
+<b>Fale comigo:</b> <a href="mailto:informaticode@gmail.com">E-mail</a> - <a href="https://www.instagram.com/myself.junior/">Instagram</a>
+</h4>
