@@ -8,7 +8,6 @@ Made with HTML + CSS.  </h4>
 <h5> Created by <a href="https://github.com/juniorcriste">Junior Criste</a></h5>
 
 <br />
-<br />
 <h5><i> pt-br </i></h5>
 <h3>Modelo Árvore de Links. </h3>
 <h4>Use e edite a vontade.
