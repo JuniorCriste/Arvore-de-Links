@@ -20,8 +20,8 @@ Feito com HTML + CSS.  </h4>
 <hr /> 
 <h4>
 DEMO:  <a href="https://www.informaticode.store/arvore">Original</a> 
-DEMO: <a href="https://www.informaticode.store/linksdabio">Soft</a> 
-DEMO: <a href="https://www.informaticode.store/arvorecolorida">Color</a> </h4> 
+ | <a href="https://www.informaticode.store/linksdabio">Soft</a> 
+ | <a href="https://www.informaticode.store/arvorecolorida">Color</a> </h4> 
 <br />
 <b>ME:</b> <a href="mailto:informaticode@gmail.com">E-mail</a> - <a href="https://www.instagram.com/myself.junior/">Instagram</a>
 </h4>
