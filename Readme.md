@@ -18,11 +18,10 @@ Feito com HTML + CSS.  </h4>
 <h5> Criado por <a href="https://github.com/juniorcriste">Junior Criste</a></h5>
 </div></div>
 <hr /> 
-<h4> <a href="https://www.informaticode.store/arvore">DEMO: Original</a> 
+<h4>
+DEMO:  <a href="https://www.informaticode.store/arvore">Original</a> 
+DEMO: <a href="https://www.informaticode.store/linksdabio">Soft</a> 
+DEMO: <a href="https://www.informaticode.store/arvorecolorida">Color</a> </h4> 
 <br />
-<h4> <a href="https://www.informaticode.store/linksdabio">DEMO: Soft</a> 
-<br />
-<h4> <a href="https://www.informaticode.store/arvorecolorida">DEMO: Color</a> 
-<br />
-<b>Fale comigo:</b> <a href="mailto:informaticode@gmail.com">E-mail</a> - <a href="https://www.instagram.com/myself.junior/">Instagram</a>
+<b>ME:</b> <a href="mailto:informaticode@gmail.com">E-mail</a> - <a href="https://www.instagram.com/myself.junior/">Instagram</a>
 </h4>
