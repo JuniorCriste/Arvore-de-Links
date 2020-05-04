@@ -1,4 +1,4 @@
-<div="about" style="display: flex;">
+<div id="about" style="display: flex;">
 <div>
 <h5><i> eng </i></h5>
 <h2>Link Tree Template. </h2>
