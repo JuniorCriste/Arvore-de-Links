@@ -1,6 +1,12 @@
 <h4> 
 <a href="https://youtu.be/WQqtdko1cNI">TUTORIAL </h4>
 <a href="https://github.com/JuniorCriste/Arvore-de-Links/tree/multi/Code"><img src="https://github.com/JuniorCriste/Arvore-de-Links/blob/multi/Assets/pages.png"></a>
+<h4>
+DEMO:  <a href="https://informaticode.store/mais/arvore">Original</a> 
+ | <a href="https://www.informaticode.store/linksdabio">Soft</a> 
+ | <a href="https://www.informaticode.store/mais/arvorecolorida">Color</a> </h4> 
+<br />
+</h4>
 <h5><i> eng </i></h5>
 <h3>Link Tree Template. </h3>
 <h4>Use and edit at will.
@@ -19,9 +25,5 @@ Feito com HTML + CSS.  </h4>
 
 <hr /> 
 <h4>
-DEMO:  <a href="https://www.informaticode.store/arvore">Original</a> 
- | <a href="https://www.informaticode.store/linksdabio">Soft</a> 
- | <a href="https://www.informaticode.store/arvorecolorida">Color</a> </h4> 
-<br />
 <b>ME:</b> <a href="mailto:informaticode@gmail.com">E-mail</a> - <a href="https://www.instagram.com/myself.junior/">Instagram</a>
 </h4>
