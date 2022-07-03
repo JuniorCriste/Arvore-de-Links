@@ -2,9 +2,9 @@
 <a href="https://youtu.be/WQqtdko1cNI">TUTORIAL </h4>
 <a href="https://github.com/JuniorCriste/Arvore-de-Links/tree/multi/Code"><img src="https://github.com/JuniorCriste/Arvore-de-Links/blob/multi/Assets/pages.png"></a>
 <h4>
-DEMO:  <a href="https://informaticode.store/mais/arvore">Original</a> 
- | <a href="https://www.informaticode.store/linksdabio">Soft</a> 
- | <a href="https://www.informaticode.store/mais/arvorecolorida">Color</a> </h4> 
+DEMO:  <a href="https://informaticode.com.br/app/links/Code/OriginalEdition/arvore.htm">Original</a> 
+ | <a href="https://informaticode.com.br/app/links/Code/SoftEdition/arvore.htm">Soft</a> 
+ | <a href="https://informaticode.com.br/app/links/Code/ColorEdition/arvore.htm">Color</a> </h4> 
 <br />
 </h4>
 <h5><i> eng </i></h5>
